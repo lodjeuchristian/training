@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.repositoryInterface.ClientRepositoryInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.repositoryInterface.CourseRepositoryInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.repositoryInterface.LocationRepositoryInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.repositoryInterface.SessionRepositoryInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceInterface.CourseServiceInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceImpl.LocationService"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceInterface.SessionServiceInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceInterface.LocationServiceInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceImpl.SessionService"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceInterface.ClientServiceInterface"/>
+<fullyQualifiedTypeName name="fr.utbm.lo54project.serviceImpl.ClientService"/>
+</qualifiedTypeNameHistroy>

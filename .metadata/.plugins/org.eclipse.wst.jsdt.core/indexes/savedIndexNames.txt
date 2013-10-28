@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+672396755.index
+4117017758.index
+1375147782.index
+613751859.index
+1971062209.index

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persistence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+  version="2.0" xmlns="http://java.sun.com/xml/ns/persistence">
+  <persistence-unit name="formation" transaction-type="RESOURCE_LOCAL">
+  <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>fr.utbm.lo54project.model.Course</class>
+    <class>fr.utbm.lo54project.model.Location</class>
+    <class>fr.utbm.lo54project.model.Session</class>
+    <class>fr.utbm.lo54project.model.Client</class>
+    <properties>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+      <property name="javax.persistence.jdbc.url"
+        value="jdbc:mysql://localhost:3306/formation" />
+      <property name="javax.persistence.jdbc.user" value="root" />
+      <property name="javax.persistence.jdbc.password" value="" />
+      <property name="eclipselink.logging.level" value="FINE"/>
+      <property name="eclipselink.logging.parameters" value="true"/>
+
+<!--       EclipseLink va créer le schéma de base de données  si ces deux lignes sont décommantées -->
+<!--       <property name="eclipselink.ddl-generation" value="create-tables" /> -->
+<!--       <property name="eclipselink.ddl-generation.output-mode" value="database" /> -->
+    </properties> 
+  </persistence-unit>
+</persistence> 

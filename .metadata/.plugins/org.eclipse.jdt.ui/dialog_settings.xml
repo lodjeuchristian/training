@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Formations\WebContent\WEB-INF\lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="400" key="height"/>
+		<item value="600" key="width"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateTextualMatches"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="javadoc">
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="false" key="notree"/>
+		<item value="true" key="splitindex"/>
+		<item value="C:\Program Files\Java\jdk1.7.0_17\bin\javadoc.exe" key="javadoc_command_history"/>
+		<item value="true" key="use"/>
+		<item value="false" key="nonavbar"/>
+		<item value="public" key="access"/>
+		<item value="true" key="version"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Formations\doc" key="destdir"/>
+		<item value="true" key="author"/>
+		<item value="" key="docletname"/>
+		<item value="1.7" key="source"/>
+		<item value="Formations Documentation" key="doctitle"/>
+		<item value="true" key="openinbrowser"/>
+		<item value="false" key="noindex"/>
+		<item value="" key="docletpath"/>
+		<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Formations\javadoc.xml" key="antpath"/>
+		<item value="true" key="fromStandard"/>
+		<section name="projects">
+			<section name="Formations">
+				<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Formations\doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Formations\javadoc.xml" key="antpath"/>
+			</section>
+			<section name="Servers">
+				<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Servers\doc" key="destdir"/>
+				<item value="" key="href"/>
+				<item value="C:\Users\L\Google Drive\UTBM P13\LO54\Final Project\Servers\javadoc.xml" key="antpath"/>
+			</section>
+		</section>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="818" key="DIALOG_WIDTH"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+		<item value="400" key="DIALOG_X_ORIGIN"/>
+		<item value="751" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+</section>

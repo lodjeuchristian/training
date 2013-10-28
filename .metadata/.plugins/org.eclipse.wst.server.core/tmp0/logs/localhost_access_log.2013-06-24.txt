@@ -1,0 +1,13 @@
+127.0.0.1 - - [24/Jun/2013:22:52:10 +0200] "GET / HTTP/1.1" 404 962
+127.0.0.1 - - [24/Jun/2013:22:52:11 +0200] "GET /Formations/accueil HTTP/1.1" 500 1669
+127.0.0.1 - - [24/Jun/2013:22:52:11 +0200] "GET /favicon.ico HTTP/1.1" 404 984
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET / HTTP/1.1" 404 962
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/accueil HTTP/1.1" 200 3032
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/css/bootstrap.min.css HTTP/1.1" 200 126461
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/css/formationscss.css HTTP/1.1" 200 1082
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/js/jquery-1.9.1.min.js HTTP/1.1" 200 92629
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/js/bootstrap.min.js HTTP/1.1" 200 31596
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/img/glyphicons-halflings.png HTTP/1.1" 200 12799
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/img/banniere16.jpg HTTP/1.1" 200 189297
+127.0.0.1 - - [24/Jun/2013:23:02:32 +0200] "GET /Formations/img/logo/logof3.jpg HTTP/1.1" 200 2254
+127.0.0.1 - - [24/Jun/2013:23:02:41 +0200] "GET /Formations/formations HTTP/1.1" 500 11784
